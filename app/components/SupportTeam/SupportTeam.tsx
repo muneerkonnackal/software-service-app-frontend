@@ -14,7 +14,7 @@ const SupportTeam = () => {
           </h1>
           <p className="text-gray-900 opacity-90 text-[17px] mt-[1rem]">
             We prioritize quick response times, personalized assistance, and
-            proactive problem-solving to ensure that our clients' needs are met
+            proactive problem-solving to ensure that our clients&apos; needs are met
             efficiently. Our team is always ready to go the extra mile, offering
             expert guidance and solutions that help your business run smoothly.
           </p>

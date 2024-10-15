@@ -18,7 +18,7 @@ const Hero = () => {
                 data-aos="fade-left"
                 data-aos-delay= "200"
                 className='md:text-[17px] text-[15px] mb-[2rem] text-black  opacity-90 font-[400]'>
-                Having a professional website is essential for any business looking to grow in today's digital landscape. A well-designed site not only establishes your online presence but also helps attract new customers, showcase your products and services, and build credibility with potential clients. 
+                Having a professional website is essential for any business looking to grow in today&apos;s digital landscape. A well-designed site not only establishes your online presence but also helps attract new customers, showcase your products and services, and build credibility with potential clients. 
                 </p>
                 <div
                 data-aos="zoom-in"
